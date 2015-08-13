@@ -8,7 +8,7 @@
     <body>
         <p>
         <?php
-            echo "php test";
+            echo "php test once more";
         ?>
         </p>
     </body>
